@@ -1,6 +1,8 @@
 # Comment_Toxicicity
 Classification of toxicity in civil comments
 
+Please go through the Toxicity Classification in Civil Comments.pdf file for details about the work.
+
 Baseline model: (toxicity_baseline.ipynb)
 A LSTM model trained on padded sequences of train texts processed using Keras tokenizer.
 
